@@ -28,7 +28,7 @@ IDEA,PHPStorm,WebStorm 等编辑器激活服务器源代码
 
 #### 使用说明
 
-1. git clone https://gitee.com/Suimg/JetBrains-License-Server.git
+1. git clone https://github.com/AlexLiu1986/JetBrains-License-Server.git
 2. cd JetBrains-License-Server
 3. mvn package
 4. java -Dserver.port=80 -jar target/license-server.jar suimg
